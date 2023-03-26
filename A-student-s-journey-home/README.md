@@ -12,3 +12,9 @@ deepcopy from copy
 preprocessing from sklearn
 numpy
 The deepcopy is used to create a new object with a new memory address.
+
+
+# Usage
+* Open the main.py file in your Python environment (e.g., IDLE, Jupyter Notebook, or PyCharm).
+* Run the script to simulate the student's journey home.
+* The script will output the student's location, mode of transportation, and distance traveled at each step of the journey.
